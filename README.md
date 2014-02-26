@@ -1,6 +1,6 @@
 # meteor-odesk
 
-Meteor oDesk OAuth Flow.
+Meteor oDesk Login OAuth Flow.
 
 
 ## Dependencies
@@ -21,6 +21,9 @@ $ mrt add odesk
 ```
 
 ## Changelog
+
+### v0.1.1
+ * Meteorite package description was too short
 
 ### v0.1.0
  * Initial release

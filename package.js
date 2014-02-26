@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "oDesk OAuth Flow"
+	summary: "oDesk Login OAuth Flow"
 });
 
 Package.on_use( function( api ) {
