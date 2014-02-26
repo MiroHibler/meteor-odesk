@@ -1,6 +1,6 @@
 {
 	"name"			: "odesk",
-	"description"	: "oDesk OAuth Flow",
+	"description"	: "oDesk Login OAuth Flow",
 	"homepage"		: "https://github.com/MiroHibler/meteor-odesk",
 	"author"		: "Miroslav Hibler (http://miro.hibler.me)",
 	"version"		: "0.1.0",
